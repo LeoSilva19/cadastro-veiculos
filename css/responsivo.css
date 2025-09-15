@@ -2,10 +2,16 @@
     .form-container{
         width: 100%;
     }
+    input[type="text"], input[type="number"], input[type="date"], input[type="file"], textarea{
+    width: 100%;
+}
 }
 
 @media (min-width: 750px) {
     .form-container{
         width: 60%;
     }
+    input[type="text"], input[type="number"], input[type="date"], input[type="file"], textarea{
+    width: 400px;
+}
 }
