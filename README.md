@@ -4,34 +4,38 @@ Este projeto é um formulário interativo para cadastro de veículos à venda. O
 
  <h3>✨ Funcionalidades</h3>
 
-📌 Cadastro de título do anúncio
+<ol>
+    <li>📌 Cadastro de título do anúncio</li>
+    
+    <li>💰 Definição do preço do veículo</li>
+    
+    📝 Campo de descrição detalhada
+    
+    🚘 Informações da marca e modelo
+    
+    📏 Registro da quilometragem
+    
+    📅 Data de compra do veículo
+    
+    ⚙️ Escolha do tipo de câmbio (Manual ou Automático)
+    
+    ✅ Seleção de opcionais, como:
+    Airbag
+</ol>
 
-💰 Definição do preço do veículo
-
-📝 Campo de descrição detalhada
-
-🚘 Informações da marca e modelo
-
-📏 Registro da quilometragem
-
-📅 Data de compra do veículo
-
-⚙️ Escolha do tipo de câmbio (Manual ou Automático)
-
-✅ Seleção de opcionais, como:
-Airbag
-
-Ar Condicionado
-
-Câmera de Ré
-
-Assistente de Pista
-
-Banco de Couro
-
-Integração com celular
-
-E outros...
+<ul>
+    <li>Ar Condicionado</li>
+    
+    <li>Câmera de Ré</li>
+    
+    <li>Assistente de Pista</li>
+    
+    Banco de Couro
+    
+    Integração com celular
+    
+    E outros...
+</ul>
 
 
  <h3>🛠️ Tecnologias Utilizadas</h3>
