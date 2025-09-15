@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #f0ebf8;
+
+}
+
+h1,h2,h3,h4,h5{
+    color: #333;
+    font-family: "Lato", sans-serif;
+}
+
+p,label{
+    color: #444;
+    font-family: "Inter", sans-serif;
+}
+
+input{
+    border: none;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+}
+
+input[type="text"], input[type="number"], input[type="date"], input[type="file"], textarea{
+    width: 400px;
+}
+
+textarea{
+    padding: 10px 5px;
+}
+
+.header{
+    height: 160px;
+    padding: 20px;
+    background-image: url('https://images.pexels.com/photos/33894120/pexels-photo-33894120.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.header h3{
+    color: #ffffff;
+    font-weight: bold;
+    margin-top: 0;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.form-container{
+    background-color: #fdfdfd;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 60%;
+    margin: 0 auto;
+    position: relative;
+    top: -62px;
+}
+
+.form-header{
+    border-bottom: 1px solid #dfdfdf;
+    height: 45px;
+}
+
+.form-header p{
+    color: #673ab7;
+    border-bottom: 1px solid #673ab7;
+    width: 100px;
+    text-align: center;
+    margin: 0 auto;
+    text-transform: uppercase;
+    height: 45px;
+    line-height: 45px;
+}
+
+.form-body{
+    padding: 30px;
+}
+
+.form-title{
+    margin-bottom: 15px;
+}
