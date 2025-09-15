@@ -1,8 +1,8 @@
-🚗 Formulário de Venda de Carros
+🚗 <h1>Formulário de Venda de Carros</h1>
 
 Este projeto é um formulário interativo para cadastro de veículos à venda. O objetivo é facilitar o processo de anúncio de carros, permitindo que o usuário insira todas as informações relevantes de maneira organizada e intuitiva.
 
-✨ Funcionalidades
+✨ <h3>Funcionalidades</h3>
 
 📌 Cadastro de título do anúncio
 
@@ -34,13 +34,13 @@ Integração com celular
 E outros...
 
 
-🛠️ Tecnologias Utilizadas
+🛠️ <h3>Tecnologias Utilizadas</h3>
 
 HTML5 – estrutura do formulário
 
 CSS3 – estilização
 
-🎯 Objetivo
+🎯 <h3>Objetivo</h3>
 
 O projeto foi desenvolvido para simular uma plataforma de anúncios de veículos, onde o usuário pode inserir os principais dados e opcionais do carro, tornando o processo de venda mais simples, rápido e atrativo.
 
