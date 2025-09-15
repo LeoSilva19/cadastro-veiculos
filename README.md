@@ -19,7 +19,8 @@ Este projeto é um formulário interativo para cadastro de veículos à venda. O
 ⚙️ Escolha do tipo de câmbio (Manual ou Automático)
 
 ✅ Seleção de opcionais, como:
-Airbag
+
+• Airbag
 
 • Ar Condicionado
 
