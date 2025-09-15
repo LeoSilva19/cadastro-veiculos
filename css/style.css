@@ -40,7 +40,7 @@ textarea{
 .header{
     height: 160px;
     padding: 20px;
-    background-image: url('https://images.pexels.com/photos/33894120/pexels-photo-33894120.jpeg');
+    background-image: url('../img/pexels-photo-33894120.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
